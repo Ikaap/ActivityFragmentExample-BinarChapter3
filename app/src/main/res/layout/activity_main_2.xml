@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:weightSum="3"
-    tools:context=".presentation.main.MainActivity">
+    tools:context=".presentation.main.MainActivity2">
 
     <FrameLayout
         android:id="@+id/fl_container"
